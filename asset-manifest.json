@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MY-Port-Folio/static/css/main.3eab7fcf.chunk.css",
+    "main.js": "/MY-Port-Folio/static/js/main.9630186c.chunk.js",
+    "main.js.map": "/MY-Port-Folio/static/js/main.9630186c.chunk.js.map",
+    "runtime-main.js": "/MY-Port-Folio/static/js/runtime-main.45dfb0f3.js",
+    "runtime-main.js.map": "/MY-Port-Folio/static/js/runtime-main.45dfb0f3.js.map",
+    "static/css/2.e4346227.chunk.css": "/MY-Port-Folio/static/css/2.e4346227.chunk.css",
+    "static/js/2.c535c3ff.chunk.js": "/MY-Port-Folio/static/js/2.c535c3ff.chunk.js",
+    "static/js/2.c535c3ff.chunk.js.map": "/MY-Port-Folio/static/js/2.c535c3ff.chunk.js.map",
+    "index.html": "/MY-Port-Folio/index.html",
+    "precache-manifest.cc580b188e97bd00ca8c8cad7449c9dd.js": "/MY-Port-Folio/precache-manifest.cc580b188e97bd00ca8c8cad7449c9dd.js",
+    "service-worker.js": "/MY-Port-Folio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/MY-Port-Folio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.3eab7fcf.chunk.css.map": "/MY-Port-Folio/static/css/main.3eab7fcf.chunk.css.map",
+    "static/js/2.c535c3ff.chunk.js.LICENSE.txt": "/MY-Port-Folio/static/js/2.c535c3ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45dfb0f3.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.c535c3ff.chunk.js",
+    "static/css/main.3eab7fcf.chunk.css",
+    "static/js/main.9630186c.chunk.js"
+  ]
+}
